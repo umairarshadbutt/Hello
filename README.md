@@ -1,4 +1,4 @@
-<h3 align="center">Medium Scraper-Ruby</h3>
+<h3 align="center">Hello World</h3>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 <p align="center">The main goal is to implement the Simple HTML file template.</p>
-![screenshot](assets/images/screen-shot.png)
+
 ## Built With
 
 - HTML5
